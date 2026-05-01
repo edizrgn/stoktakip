@@ -1,0 +1,732 @@
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\StokTakip\StokTakip\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\edize\Desktop\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\TOYGAR\OneDrive\Masaüstü\stoktakipdb-4.2\stoktakipdb (4)\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Profil.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Profil.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Profil.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Kategoriler.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Kategoriler.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Profil.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1 (3) (1) (1)\stoktakip1 (2) (1) (1)\stoktakip1 (2) (1)\stoktakip1 (1)\stoktakip1\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Personeller.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Kategoriler.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Personeller.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Profil.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\edize\Desktop\stoktakip1 (3) (1) (1)\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Kategoriler.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Personeller.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Profil.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.sourcelink.json
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\HarfBuzzSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\OpenTK.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\OpenTK.GLControl.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ScottPlot.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ScottPlot.WinForms.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Raporlar.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ClosedXML.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ClosedXML.Parser.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ExcelNumberFormat.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\RBush.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Musteriler.resources
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.WinForms.dll
+C:\Users\mikai\OneDrive\Masaüstü\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.Wpf.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Kategoriler.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Musteriler.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Personeller.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Profil.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Raporlar.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ClosedXML.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ClosedXML.Parser.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ExcelNumberFormat.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\HarfBuzzSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.WinForms.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.Wpf.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\OpenTK.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\OpenTK.GLControl.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\RBush.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ScottPlot.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ScottPlot.WinForms.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\AForge.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\AForge.Video.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\AForge.Video.DirectShow.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\zxing.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\bin\Debug\net10.0-windows\ZXing.Windows.Compatibility.dll
+C:\Users\TOYGAR\Desktop\stoktakip1-07.04 (1)\stoktakip1-07.04\stoktakip1\stoktakip1\obj\Debug\net10.0-windows\StokTakip.BarkodOkuyucuForm.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\StokTakip.exe
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\StokTakip.deps.json
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\StokTakip.runtimeconfig.json
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\StokTakip.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\AForge.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\AForge.Video.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\AForge.Video.DirectShow.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\ClosedXML.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\ClosedXML.Parser.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\ExcelNumberFormat.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\Guna.UI2.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\HarfBuzzSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.WinForms.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\LiveCharts.Wpf.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\OpenTK.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\OpenTK.GLControl.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\RBush.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\ScottPlot.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\ScottPlot.WinForms.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\zxing.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\ZXing.Windows.Compatibility.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\bin\Debug\net10.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.AssemblyReference.cache
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Properties.Resources.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.BarkodOkuyucuForm.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.DashboardForm.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Form1.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.RegisterForm.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_AnaSayfa.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Kategoriler.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Musteriler.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Personeller.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Profil.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Raporlar.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Satis.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.UC_Stok.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.UC_Urunler.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.Views.VerificationForm.resources
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.GenerateResource.cache
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfoInputs.cache
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.AssemblyInfo.cs
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.csproj.Up2Date
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\refint\StokTakip.dll
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.pdb
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\StokTakip.genruntimeconfig.cache
+C:\Users\edize\Desktop\stoktakip-27.04\stoktakip1\obj\Debug\net10.0-windows\ref\StokTakip.dll

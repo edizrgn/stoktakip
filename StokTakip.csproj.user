@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\BarkodOkuyucuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\UC_Musteriler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UC_Raporlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UC_Kategoriler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UC_AnaSayfa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UC_Personeller.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UC_Profil.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UC_Satis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UC_Stok.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UC_Urunler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\VerificationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
