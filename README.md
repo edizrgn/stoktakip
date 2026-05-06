@@ -261,25 +261,9 @@ Bu yapı sayesinde arayüz, veri erişimi ve iş mantığı birbirinden daha oku
 
 ---
 
-## Yapılabilecek İyileştirmeler
-
-- Hassas bilgileri kaynak koddan çıkarıp güvenli konfigürasyon yapısına taşımak
-- Şifreleri düz metin yerine hash algoritması ile saklamak
-- Veritabanı bağlantı cümlelerini tek merkezden yönetmek
-- Hata yönetimini daha merkezi hale getirmek
-- Loglama sistemi eklemek
-- Kullanıcı yetkilendirmesini daha detaylı hale getirmek
-- Kurulum için örnek `.env` veya `appsettings` benzeri yapı hazırlamak
-- README içine ekran görüntüleri eklemek
-- Birim testleri eklemek
-
----
-
 ## Lisans
 
 Bu proje eğitim ve geliştirme amacıyla hazırlanmıştır.
-
-Lisans bilgisi eklemek isterseniz repoya ayrıca bir `LICENSE` dosyası ekleyebilirsiniz.
 
 ---
 
