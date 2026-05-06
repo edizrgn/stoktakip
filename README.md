@@ -113,6 +113,12 @@ Bu dosya içerisinde aşağıdaki temel tablolar bulunur:
 
 Ayrıca ürün eklendiğinde veya ürün stoğu değiştiğinde stok hareketi kaydı oluşturmak için tetikleyiciler de kullanılmıştır.
 
+## UML ve ER Diagramları
+
+<img width="3900" height="3350" alt="UML_Diagram" src="https://github.com/user-attachments/assets/69a34bcc-2af2-455f-a269-abef2175ce28" />
+<img width="1575" height="998" alt="ER_Diagram" src="https://github.com/user-attachments/assets/61864706-cab9-4e44-915c-02b944a3ec2d" />
+
+
 ---
 
 ## Kurulum
@@ -277,11 +283,11 @@ Lisans bilgisi eklemek isterseniz repoya ayrıca bir `LICENSE` dosyası ekleyebi
 
 ---
 
-## Geliştirici
+## Geliştiriciler
 
-**Ediz Ergin**
-**Toygar Yıldız**
-**Mikail Çelik**
-**Yiğit Yüce**
+- **Ediz Ergin**
+- **Toygar Yıldız**
+- **Mikail Çelik**
+- **Yiğit Yüce**
 
 GitHub: [edizrgn](https://github.com/edizrgn)
