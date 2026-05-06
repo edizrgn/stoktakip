@@ -285,9 +285,9 @@ Lisans bilgisi eklemek isterseniz repoya ayrıca bir `LICENSE` dosyası ekleyebi
 
 ## Geliştiriciler
 
-- **Ediz Ergin**
-- **Toygar Yıldız**
-- **Mikail Çelik**
-- **Yiğit Yüce**
+- [**Ediz Ergin**](https://github.com/edizrgn
+- [**Toygar Yıldız**](https://github.com/ToygarYldz)
+- [**Mikail Çelik**](https://github.com/mikail4734)
+- [**Yiğit Yüce**](http://github.com/ygtyce19)
 
 GitHub: [edizrgn](https://github.com/edizrgn)
